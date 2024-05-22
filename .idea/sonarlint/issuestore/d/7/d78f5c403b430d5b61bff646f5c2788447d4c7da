@@ -1,0 +1,21 @@
+
+´
+java:S1319*"sThe type of "objetoTransacciones" should be an interface such as "List" rather than the implementation "ArrayList".(ãè÷‰ùÿÿÿÿJ$310ff4c7-a494-4806-9f17-1ec2cc4b49fe
+‹
+java:S2095…"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(¸ú»‘J$db5948c3-f406-4269-8c53-cbd8d047f230
+§
+java:S4165."fRemove this useless assignment; "VERTICAL" already holds the assigned value along all execution paths.(™³âøÿÿÿÿJ$cf54e6c4-b236-440f-b508-63fde33df0e8
+	java:S116%"SRename this field "VERTICAL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·™­ûJ$56ee5a36-6e00-44f5-beb4-4b683e7b7e49
+‘	java:S116("QRename this field "Rating" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³¿¹ıÿÿÿÿJ$50eb302f-9972-4a44-a033-4f8fc75a02ef
+
+java:S3776A"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(œÏìíJ$cff2cb8b-2e3b-4f60-98ec-b0e09f0c3812
+m
+java:S1874E",Remove this use of "with"; it is deprecated.(Ëï­ûúÿÿÿÿJ$63da248f-d81c-40dd-b9fd-eec46750ce42
+•
+java:S1602¡"SRemove useless curly braces around statement and then remove useless return keyword(éõ¦ÀùÿÿÿÿJ$86f4a1f9-32e8-4780-a7e6-23612e179afc
+Š
+java:S1659Ô"HDeclare "descripcion" and all following declarations on a separate line.(ã®êáøÿÿÿÿJ$43d42996-6d55-4672-af3f-a3a29dc97a4d
+p
+java:S1656."/Remove or correct this useless self-assignment.(™³âøÿÿÿÿJ$ec0e105d-33dd-4754-a556-5196b7a0c211
+k
+java:S1068("*Remove this unused "Rating" private field.(³¿¹ıÿÿÿÿJ$aa17e573-8ab3-4d0c-bce8-b1a7c20cc209

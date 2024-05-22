@@ -1,0 +1,39 @@
+
+v
+java:S1141R"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿJ$50fc9c26-b4a9-4ae0-8e01-e4af8e936f34
+v
+java:S1141r"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿJ$f90baf44-73f4-4dd9-874c-3ed3fd1525fb
+‘	java:S117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı”øÿÿÿÿJ$13e88295-9bad-4b4a-b0bf-ded635217e4b
+‘	java:S117n"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ’î„üÿÿÿÿJ$12572fbd-7bf5-4662-a2eb-034d4ebab805
+Œ	java:S117¥"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÇøZJ$669d6a32-4c28-45d8-8755-eeb6126b71b0
+Œ	java:S117¥"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÇøZJ$f79c2510-c93f-4d81-8aa5-2260d120af41
+Œ	java:S117¥"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÇøZJ$441c2931-6a56-4997-aef5-c4d9acc03ef0
+¢
+java:S1104/"aMake PANTALLA_CARGA_INICIO a static final constant or non-public and provide accessors if needed.(¬ğÀùÿÿÿÿJ$a321ac28-0811-40fc-998e-7efeee226606
+ 	java:S116/"`Rename this field "PANTALLA_CARGA_INICIO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ğÀùÿÿÿÿJ$be823040-36bd-4933-ba71-37b6f4f86bf9
+	java:S1160"MRename this field "TI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü´şÔøÿÿÿÿJ$191d2ac1-91f3-442d-a09b-16071b99defb
+¢	java:S1164"bRename this field "DELAY_PANTALLA_DE_CARGA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û™£êüÿÿÿÿJ$d8b00d4d-5968-40cf-911b-97ecb40c0d81
+—	java:S1164"WRename this field "TIMER_ACTIVO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û™£êüÿÿÿÿJ$54b2eca2-08b8-440f-92ec-d3a9ea388703
+k
+java:S16594"*Declare "TIMER_ACTIVO" on a separate line.(Û™£êüÿÿÿÿJ$77398946-d636-42a2-8236-0d7475a41243
+’
+java:S14502"VRemove the "builder" field and declare it as a local variable in the relevant methods.(ùšÜ¥J$3ba56cff-bd59-43cc-bd20-565766e9f9ea
+‰	java:S100@"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü‚ÙœJ$5198ecfa-d857-43de-97ee-bb6a4ad330c9
+
+java:S3776@"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(ü‚ÙœJ$b54dcefd-108c-4909-8b46-8f663b2f493e
+d	java:S108Y")Either remove or fill this block of code.(”ı¾J$682daf3b-6027-4877-88ff-e7cd06f51e97
+Â
+java:S1186t"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(éò‰ÏùÿÿÿÿJ$b81a4309-fd4d-4c68-9c48-faa2b4e7ab26
+d	java:S108~")Either remove or fill this block of code.(”ı¾J$fd97da52-2f07-4426-9630-45d0dec4bca7
+	java:S100œ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î‘éÆÿÿÿÿÿJ$8011ce4c-f267-44bd-bd96-74b9239af7f4
+‰	java:S100¥"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÇøZJ$50546014-1afd-4d5f-ab1f-55668bd9948d
+m
+java:S1874½"0Remove this use of "getColor"; it is deprecated.(ˆê¦ËJ$c398c152-35f5-4529-b39c-1f7e776e770f
+z
+java:S1874À"=Remove this use of "setSystemUiVisibility"; it is deprecated.(‘¸„€J$1b74f5ab-0550-4a3c-8d14-1a494a243808
+„
+java:S1874À"GRemove this use of "SYSTEM_UI_FLAG_LIGHT_STATUS_BAR"; it is deprecated.(‘¸„€J$184e64f0-5cde-4858-b1f0-a2c19d9088ee
+{
+java:S1874Ñ"9Remove this use of "getDefaultDisplay"; it is deprecated.(´½¦ŸüÿÿÿÿJ$55eae424-21fb-4069-ab12-8dc1b6f87e55
+t
+java:S1874Ñ"2Remove this use of "getMetrics"; it is deprecated.(´½¦ŸüÿÿÿÿJ$b10604b2-6568-41c7-afeb-7dbef4d30157

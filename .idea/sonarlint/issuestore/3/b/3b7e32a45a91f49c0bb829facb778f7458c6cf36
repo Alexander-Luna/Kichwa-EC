@@ -1,0 +1,29 @@
+
+p
+java:S1066J"/Merge this if statement with the enclosing one.(âóœ¯şÿÿÿÿJ$cf5cfa87-0a3b-461e-ac89-bc9cc252a076
+­
+java:S1319""qThe type of "palabrasArrayList" should be an interface such as "List" rather than the implementation "ArrayList".(ıß‡¾J$13b1b749-368d-4c65-97f7-87a4c548026d
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÒïÀÂûÿÿÿÿJ$ad41794e-886e-4217-9d0b-7465cc2869bf
+‹	java:S116"PRename this field "Click" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞÆ¸ÓJ$39f536fa-5c5b-434b-8cf9-4123f494db7b
+‰	java:S100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıß‡¾J$85ad3f74-ad77-4732-bebd-44651fcbafbb
+
+java:S3776""RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ıß‡¾J$cc18f9ec-7fc8-46e2-9e16-0a07af43e5e6
+|	java:S125/"<This block of commented-out lines of code should be removed.(Íö¼úÿÿÿÿJ$7fdf79c7-cf5e-4a11-a24f-01cf433d4a8c
+½
+java:S1186:"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(á¬‡İJ$f37febc8-ed5e-4d2f-8cbe-63ef55d3909c
+½
+java:S1186?"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Œğ£ÂJ$412927df-dc35-44a4-836a-e69c1c133e35
+q
+java:S2209I"5Change this instance-reference to a static reference.(ªèúJ$048bd6d9-c4b8-430d-a689-245c67564583
+q
+java:S2209I"5Change this instance-reference to a static reference.(ªèúJ$9f47635b-87cb-43b0-8549-4cc0ae5ff894
+q
+java:S2209I"5Change this instance-reference to a static reference.(ªèúJ$85c79685-30b7-4b30-b1e1-3e23e770f85d
+q
+java:S2209I"5Change this instance-reference to a static reference.(ªèúJ$ba09cd22-fc78-4962-b6c8-06e1453438e0
+d	java:S108N")Either remove or fill this block of code.(”ı¾J$6d80f079-790e-4979-98e3-42bdb80a8525
+q
+java:S2209_"5Change this instance-reference to a static reference.(Š¨¯ÖJ$55e9798f-ae3a-4f68-9fea-596385618bf2
+d	java:S108b")Either remove or fill this block of code.(”ı¾J$a3079491-b9a4-48c2-820d-8683463f080b
+e
+java:S1068")Remove this unused "Click" private field.(ĞÆ¸ÓJ$d12e7bdc-6f00-49b8-8ce1-67c8b347a628

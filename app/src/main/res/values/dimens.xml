@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tamanio_botones">150dp</dimen>
+    <dimen name="size_boton_comprar">20sp</dimen>
+    <dimen name="tamanio_textoSec">12sp</dimen>
+    <dimen name="tamanio_textoPrin">16sp</dimen>
+    <dimen name="tamanio_textoPrinTa">18sp</dimen>
+</resources>

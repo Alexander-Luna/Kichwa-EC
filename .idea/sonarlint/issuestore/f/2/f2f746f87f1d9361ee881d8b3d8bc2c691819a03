@@ -1,0 +1,75 @@
+
+†	java:S112["FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$b1b3898d-2daa-446a-a835-43fee7d03bcc
+‚	java:S112Ò"FDefine and throw a dedicated exception instead of using a generic one.(ê¥æJ$c8203e85-9b65-48e3-a4b2-1f332b5fb1ab
+„
+java:S1192Z"IDefine a constant instead of duplicating this literal "TAGerror" 4 times.(³¹¿J$c95e528c-3179-43ee-85b0-5a63693c29ec
+²
+java:S1319$"qThe type of "palabrasArrayList" should be an interface such as "List" rather than the implementation "ArrayList".(¯í‡­ùÿÿÿÿJ$57a352be-63cb-4e61-8186-950259605a00
+w
+java:S1141›"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿJ$2bfdc153-2d7b-4cc6-95a7-5e5202db7706
+Œ	java:S117u"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³‡šJ$ec7402d9-0951-4827-8ef1-e6707de834f9
+’	java:S117ƒ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€Ş£İúÿÿÿÿJ$fef5cfc9-8524-441b-86b7-8744ef226e35
+’	java:S117ƒ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€Ş£İúÿÿÿÿJ$77e34d86-4d21-4717-9eeb-95f69a0a4c3a
+’	java:S117ƒ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€Ş£İúÿÿÿÿJ$2d23a074-5cd5-468d-a404-7b8d1a130ce6
+’	java:S117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â…ä§úÿÿÿÿJ$d6f348f8-5caa-43cc-b535-aae706088362
+	java:S117Æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æşã…J$7bf27cad-35c3-4cd4-8665-173c1db34374
+
+java:S1104$"]Make palabrasArrayList a static final constant or non-public and provide accessors if needed.(¯í‡­ùÿÿÿÿJ$0e85b4fc-b2e6-4247-a09f-fcc80da68855
+˜
+java:S1104'"WMake mediaPlayer a static final constant or non-public and provide accessors if needed.(‚ÙÒªúÿÿÿÿJ$264f052e-fe31-446f-a247-80f948bbfb5e
+Œ
+java:S1104("PMake auth a static final constant or non-public and provide accessors if needed.(ï´¦âJ$28952b66-e0fc-43c0-976d-65a5c73743b1
+
+java:S1104)"UMake firestore a static final constant or non-public and provide accessors if needed.(ÙœßJ$8c591728-ae4f-40eb-8b9e-0a4615cea763
+
+java:S1104*"SMake BbarIzq a static final constant or non-public and provide accessors if needed.(®äÌ€J$fc15048a-0883-41b7-9247-54333ecc4c86
+”
+java:S1104,"XMake recyclerView a static final constant or non-public and provide accessors if needed.(´ŞºƒJ$fbc7843c-082b-4a33-8314-65ff9dcf9bdb
+x
+java:S1444$"7Make this "public static palabrasArrayList" field final(¯í‡­ùÿÿÿÿJ$216a6a52-5e4f-41f9-8e66-630c476aa158
+s
+java:S1444&"2Make this "public static complementos" field final(çäËÿÿÿÿÿJ$9b768b7d-e682-4022-afab-c9a1d412086c
+	java:S116*"RRename this field "BbarIzq" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®äÌ€J$08bee9fb-de3c-4b9c-8dd1-30c79b51bcb3
+
+java:S1450+"TRemove the "vista" field and declare it as a local variable in the relevant methods.(‚’ØJ$1e393d69-b4ba-401e-bb03-aeb186500a6d
+‰	java:S100."NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ğ‰ÙJ$95d0ea54-2750-4a3d-b4c7-dd056a074d65
+
+java:S16593">Declare "j" and all following declarations on a separate line.(Ø…°ŸùÿÿÿÿJ$d28351f5-847e-4913-b385-16d4a86cef3d
+r
+java:S2696U"6Make the enclosing method "static" or remove this set.(Âò“ËJ$6350f4cf-cb05-4a62-84c5-6d5cd88bceea
+‰	java:S100m"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó¦ˆçJ$791882f2-7948-489b-a633-0b2f582565fb
+v
+java:S1854p";Remove this useless assignment to local variable "manager".(º°òqJ$a45362dc-f621-4664-a969-2f75635df530
+g
+java:S1481p",Remove this unused "manager" local variable.(º°òqJ$a9e73c6b-6911-4213-8588-da574780f547
+p
+java:S1481q"/Remove this unused "stackEntry" local variable.(’±ĞùÿÿÿÿJ$31e33545-8ec0-41c0-ae3c-02bb57df201a
+Œ
+java:S1301r"KReplace this "switch" statement by "if" statements to increase readability.(¯Ù¬ÆøÿÿÿÿJ$cb0f65ca-ef71-4cbc-ac58-85bcc298ff4a
+d	java:S108~")Either remove or fill this block of code.(”ı¾J$dcfee51d-6309-4a2e-ab86-4e94577fd0f3
+	java:S100ƒ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€Ş£İúÿÿÿÿJ$f762c510-cf1f-4bb2-81c0-cd918b89898c
+	java:S100‰"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â…ä§úÿÿÿÿJ$03b6ba72-d70a-4792-87f6-d832e1097e91
+Œ
+java:S1874”"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(œƒƒ©ùÿÿÿÿJ$81ace9c3-2412-4e67-ac30-3d11e537f762
+c	java:S131™""Add a default case to this switch.(¯Ù¬ÆøÿÿÿÿJ$33e47236-e904-43f1-b822-294bbe858e57
+
+java:S1301™"KReplace this "switch" statement by "if" statements to increase readability.(¯Ù¬ÆøÿÿÿÿJ$2b2f8da1-35c2-4eea-b7ed-36ae49cb2d74
+x	java:S125¥"<This block of commented-out lines of code should be removed.(„ôƒ°J$b5ea9ac3-771a-4d6a-8765-1e6202e843fb
+u
+java:S1874¼"3Remove this use of "getDrawable"; it is deprecated.(‹öÕùûÿÿÿÿJ$bd6fbdfc-fd30-4a9e-9634-dac7f28bfc0d
+Š	java:S100Æ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æşã…J$c11988cf-088a-40b4-8fce-834fe46179b1
+e
+java:S1185Ì"(Remove this method to simply inherit it.(Ù«µ§J$d1035008-1690-43f2-b88f-d07ddc164505
+Š	java:S100Ò"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê¥æJ$81e19eac-d828-4fe3-8f58-aa717e2be4d3
+
+java:S3776Ò"RRefactor this method to reduce its Cognitive Complexity from 47 to the 15 allowed.(ê¥æJ$c184c80c-68fc-4ca2-ad06-637b7b5b2293
+©
+java:S1130Ò"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ê¥æJ$4c243bd0-4cbe-43d1-961e-346ffada60cd
+i
+java:S2386Ó",Make member "palabrasArrayList" "protected".(åóñ¬J$60027cff-6b9d-4382-b02f-4d5785f9b03f
+s
+java:S2696Ó"6Make the enclosing method "static" or remove this set.(åóñ¬J$de3f8cde-e0dd-4213-a20d-9aecd7780f29
+g
+java:S6889T"+Make sure to release this sensor after use.(­Ä´J$103b2ac6-247c-4134-89df-57f9c9cb3042
+t
+java:S1144ƒ"2Remove this unused private "GuardarOpcion" method.(€Ş£İúÿÿÿÿJ$bb4e65c6-76ff-44eb-b17e-eafd8d9d6999

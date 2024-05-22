@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "196169923577",
+    "project_id": "quechuaec-2e62e",
+    "storage_bucket": "quechuaec-2e62e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196169923577:android:3a6a6cc40c65241dbcdb28",
+        "android_client_info": {
+          "package_name": "com.softec.quechuaec"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyhjzLjwEolOMPGoGVibm-lZndKJxc1iw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

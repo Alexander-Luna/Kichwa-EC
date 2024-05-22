@@ -1,0 +1,17 @@
+
+Š
+java:S1192O"IDefine a constant instead of duplicating this literal "TAGerror" 4 times.(‰ŸŠçşÿÿÿÿJ$ea90ac2f-3c25-4d74-8838-f3f960f5ddf7
+
+java:S1192O"LDefine a constant instead of duplicating this literal "getGenero: " 3 times.(‰ŸŠçşÿÿÿÿJ$b04353ee-99fd-4986-a547-6e41f00c9031
+Œ	java:S117]"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Àí ´J$0ffdff1e-16f3-4335-b53a-b851359b14a4
+‚
+java:S2259‚"@A "NullPointerException" could be thrown; "sC" is nullable here.(À¡ÎîÿÿÿÿÿJ$0fb668dd-5673-4513-95e2-15e73f0d5c54
+‘
+java:S1206"PThis class overrides "equals()" and should therefore also override "hashCode()".(İ¢êÍıÿÿÿÿJ$80b7a8cf-25d0-4208-86e8-7d6628f734ba
+…
+java:S1659"DDeclare "quechua" and all following declarations on a separate line.(éò€ùÿÿÿÿJ$ab75f236-eb30-470d-a0e1-109506aae1aa
+_
+java:S1659"#Declare "vozqu" on a separate line.(¨¿Å‚J$5f0dd48e-8c31-4b92-ace3-ce4aa725dd5d
+‰	java:S100]"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Àí ´J$7ce8796f-ee0f-4d5d-95a9-d9067b80ac6b
+`
+java:S2097"Add a type test to this method.(İ¢êÍıÿÿÿÿJ$6ea3fb37-b69c-40ca-bfb8-f5a233897e43

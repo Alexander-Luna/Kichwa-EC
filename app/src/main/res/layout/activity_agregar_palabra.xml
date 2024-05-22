@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorFondo"
+    tools:context=".activitys.ActivityAgregarPalabra">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorFondo"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <com.github.florent37.diagonallayout.DiagonalLayout
+            android:id="@+id/diagonalLayout"
+            android:layout_width="match_parent"
+            android:layout_height="400dp"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="0dp"
+            app:diagonal_angle="0"
+            app:diagonal_direction="left"
+            app:diagonal_position="bottom">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/design_header"
+                android:orientation="vertical"
+                android:scaleType="fitXY" />
+
+        </com.github.florent37.diagonallayout.DiagonalLayout>
+
+        <include
+            android:id="@+id/app_bar"
+            layout="@layout/app_bar" />
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="?actionBarSize">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:id="@+id/image"
+                        android:layout_width="match_parent"
+                        android:layout_height="100dp"
+                        android:contentDescription="@string/todo"
+                        android:src="@drawable/splash" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginEnd="5dp"
+                        android:layout_weight="0"
+                        android:ellipsize="end"
+                        android:maxLines="1"
+                        android:text="@string/agregar_palabra"
+                        android:textAlignment="center"
+                        android:textColor="@color/colorWhite"
+                        android:textSize="20sp"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="11dp"
+                    app:cardBackgroundColor="@color/colorCardView"
+                    app:cardCornerRadius="5dp"
+                    app:cardElevation="10dp"
+                    app:contentPadding="5dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginEnd="5dp"
+                            android:layout_weight="0"
+                            android:ellipsize="end"
+                            android:maxLines="1"
+                            android:text="@string/nombre_palabra_qu"
+                            android:textColor="@color/colorTextoTitulos"
+                            android:textSize="16sp"
+                            android:textStyle="bold" />
+
+                        <com.google.android.material.textfield.TextInputLayout
+                            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:background="@color/colorCardView"
+                            android:hint="@string/escriba"
+                            android:textColorHint="@color/colorTextHint"
+                            app:boxStrokeColor="@color/colorPrin"
+                            app:endIconMode="clear_text"
+                            app:endIconTint="@color/colorIconosOpaco"
+                            app:hintTextColor="@color/colorTextoTitulos"
+                            app:startIconDrawable="@drawable/ic_editar"
+                            app:startIconTint="@color/colorPrin">
+
+                            <com.google.android.material.textfield.TextInputEditText
+                                android:id="@+id/TIpqu"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:inputType="text"
+                                android:textColor="@color/colorTexto" />
+                        </com.google.android.material.textfield.TextInputLayout>
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginEnd="5dp"
+                            android:layout_weight="0"
+                            android:ellipsize="end"
+                            android:maxLines="1"
+                            android:text="@string/nombre_palabra_es"
+                            android:textColor="@color/colorTextoTitulos"
+                            android:textSize="16sp"
+                            android:textStyle="bold" />
+
+                        <com.google.android.material.textfield.TextInputLayout
+                            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:background="@color/colorCardView"
+                            android:hint="@string/escriba"
+                            android:textColorHint="@color/colorTextHint"
+                            app:boxStrokeColor="@color/colorPrin"
+                            app:endIconMode="clear_text"
+                            app:endIconTint="@color/colorIconosOpaco"
+                            app:hintTextColor="@color/colorTextoTitulos"
+                            app:startIconDrawable="@drawable/ic_editar"
+                            app:startIconTint="@color/colorPrin">
+
+                            <com.google.android.material.textfield.TextInputEditText
+                                android:id="@+id/TIpes"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:inputType="text"
+                                android:textColor="@color/colorTexto" />
+                        </com.google.android.material.textfield.TextInputLayout>
+
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginEnd="5dp"
+                            android:layout_weight="0"
+                            android:ellipsize="end"
+                            android:maxLines="1"
+                            android:text="@string/descipcion_p"
+                            android:textColor="@color/colorTextoTitulos"
+                            android:textSize="16sp"
+                            android:textStyle="bold" />
+
+                        <com.google.android.material.textfield.TextInputLayout
+                            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:background="@color/colorCardView"
+                            android:hint="@string/escriba"
+                            android:textColorHint="@color/colorTextHint"
+                            app:boxStrokeColor="@color/colorPrin"
+                            app:endIconMode="clear_text"
+                            app:endIconTint="@color/colorIconosOpaco"
+                            app:hintTextColor="@color/colorTextoTitulos"
+                            app:startIconDrawable="@drawable/ic_editar"
+                            app:startIconTint="@color/colorPrin">
+
+                            <com.google.android.material.textfield.TextInputEditText
+                                android:id="@+id/TIdesc"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:inputType="textMultiLine"
+                                android:textColor="@color/colorTexto" />
+                        </com.google.android.material.textfield.TextInputLayout>
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginEnd="5dp"
+                            android:layout_weight="0"
+                            android:ellipsize="end"
+                            android:maxLines="1"
+                            android:text="Agregar Imágen"
+                            android:textColor="@color/colorTextoTitulos"
+                            android:textSize="16sp"
+                            android:textStyle="bold" />
+
+                        <ImageView
+                            android:id="@+id/imagen"
+                            android:layout_width="150dp"
+                            android:layout_height="150dp"
+                            android:layout_gravity="center"
+                            android:layout_marginTop="10dp"
+                            android:background="@drawable/background_contornos"
+                            android:clickable="true"
+                            android:contentDescription="@string/agregar_palabra"
+                            android:focusable="true"
+                            android:scaleType="fitXY"
+                            android:src="@drawable/ic_galeria" />
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginEnd="5dp"
+                            android:layout_weight="0"
+                            android:ellipsize="end"
+                            android:maxLines="1"
+                            android:text="@string/vozque"
+                            android:textColor="@color/colorTextoTitulos"
+                            android:textSize="16sp"
+                            android:textStyle="bold" />
+                        <Button
+                            android:id="@+id/btn_record"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="0"
+                            android:background="@drawable/background_contornos"
+                            android:drawableEnd="@drawable/ic_audio"
+                            android:paddingEnd="10dp"
+                            android:text="Seleccionar Archivo MP3" />
+                    </LinearLayout>
+                </androidx.cardview.widget.CardView>
+
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="11dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginEnd="11dp"
+                    android:layout_marginBottom="50dp"
+                    app:cardBackgroundColor="@color/colorCardView"
+                    app:cardCornerRadius="15dp"
+                    app:cardElevation="10dp"
+                    app:contentPadding="5dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:orientation="horizontal">
+
+                        <Button
+                            android:id="@+id/BAceptar"
+                            android:layout_width="match_parent"
+                            android:layout_height="40dp"
+                            android:layout_gravity="center"
+                            android:layout_marginTop="10dp"
+                            android:layout_marginBottom="10dp"
+                            android:background="@drawable/button_background"
+                            android:drawableEnd="@drawable/ic_save"
+                            android:padding="10dp"
+                            android:text="@string/guardar"
+                            android:textAllCaps="false"
+                            android:textColor="@color/colorWhite" />
+                    </LinearLayout>
+                </androidx.cardview.widget.CardView>
+            </LinearLayout>
+        </ScrollView>
+    </RelativeLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

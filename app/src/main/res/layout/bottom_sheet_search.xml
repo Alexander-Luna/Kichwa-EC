@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/card_busqueda"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="2dp"
+    app:cardBackgroundColor="@color/colorCardView"
+    app:cardCornerRadius="10dp"
+    app:cardElevation="2dp"
+    app:contentPadding="10dp">
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:id="@+id/linear1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="100dp"
+                android:layout_height="5dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="3dp"
+                app:cardBackgroundColor="@color/colorTabScroll"
+                app:cardCornerRadius="5dp"
+                app:cardElevation="1dp" />
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                app:cardBackgroundColor="@color/colorCardView"
+                app:cardCornerRadius="5dp"
+                app:cardElevation="10dp"
+                app:contentPadding="5dp">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="5dp"
+                    android:layout_weight="0"
+                    android:ellipsize="end"
+                    android:maxLines="1"
+                    android:text="@string/buscar_palabra"
+                    android:textAlignment="center"
+                    android:textColor="@color/colorPrin"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="11dp"
+                app:cardBackgroundColor="@color/colorCardView"
+                app:cardCornerRadius="5dp"
+                app:cardElevation="10dp"
+                app:contentPadding="5dp">
+
+                <com.google.android.material.textfield.TextInputLayout
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/colorCardView"
+                    android:hint="@string/buscar"
+                    android:textColorHint="@color/colorTextHint"
+                    app:boxStrokeColor="@color/colorPrin"
+                    app:endIconMode="clear_text"
+                    app:endIconTint="@color/colorIconosOpaco"
+                    app:hintTextColor="@color/colorTextoTitulos"
+                    app:startIconDrawable="@drawable/ic_search"
+                    app:startIconTint="@color/colorPrin">
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:id="@+id/TIbuscar"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:inputType="textPersonName"
+                        android:textColor="@color/colorTexto" />
+                </com.google.android.material.textfield.TextInputLayout>
+                <!--  <SearchView
+                      android:id="@+id/searchView"
+                      android:layout_width="match_parent"
+                      android:layout_height="wrap_content"
+                      android:iconifiedByDefault="false">
+
+                      <requestFocus />
+                  </SearchView>-->
+            </androidx.cardview.widget.CardView>
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/RecyclerView_item"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="0dp"
+                android:scrollbarSize="0dp"
+                android:scrollbarStyle="insideInset"
+                android:scrollbars="vertical"
+                tools:itemCount="5"
+                tools:listitem="@layout/partitura_item" />
+
+
+            <RelativeLayout
+                android:id="@+id/adRelative"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" />
+        </LinearLayout>
+
+    </androidx.core.widget.NestedScrollView>
+</androidx.cardview.widget.CardView>
+

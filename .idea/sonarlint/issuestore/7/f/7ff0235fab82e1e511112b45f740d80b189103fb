@@ -1,0 +1,41 @@
+
+ˆ
+java:S1192v"GDefine a constant instead of duplicating this literal "Action" 3 times.(ÃôíŸüÿÿÿÿJ$e575c6e0-3a16-4bb0-8e72-c9cf6eb7a86e
+Š
+java:S1192y"IDefine a constant instead of duplicating this literal "TAGerror" 3 times.(şÔ¾İıÿÿÿÿJ$6077fb27-036f-4d2e-8aa2-c32714e56c3a
+Œ	java:S1174"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÜÇùJ$e48f39e5-1e05-4e2c-a523-5f288ad5160c
+Œ	java:S117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å¥òÅJ$14af6f96-01ee-4949-bb76-5239d28ae99d
+Œ	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š§Ï‰J$382cf5b1-6199-4ff4-b0b1-1a6bff14c814
+˜	java:S116"XRename this field "DIALOG_ACTIVO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íÿ¸ùÿÿÿÿJ$e3c64462-40e6-4399-8866-48c78338481b
+^
+java:S1659""Declare "pass" on a separate line.(£ˆ£J$ebfdbc0e-8659-42d1-ae9b-d04d3b31fa2a
+›
+java:S1450"ZRemove the "alertDialog" field and declare it as a local variable in the relevant methods.(Ó—½úÿÿÿÿJ$893c8b18-3e36-43ed-8b38-d44da7d2a708
+
+java:S1450"SRemove the "pass" field and declare it as a local variable in the relevant methods.(£ˆ£J$111ac746-6f04-422a-8afd-734d7a4435c4
+
+java:S1450"SRemove the "user" field and declare it as a local variable in the relevant methods.(£ˆ£J$ab026aed-dfaa-4c0d-8263-a8c8e9206509
+	java:S100+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚êøÿÿÿÿJ$c332d32e-883b-4823-a335-0663f432b7dc
+l
+java:S1172+"+Remove this unused method parameter "view".(‚êøÿÿÿÿJ$912293d9-dc79-4535-85b3-25a3c09c93fa
+	java:S100/"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ğĞ¥şÿÿÿÿJ$c1e7caee-d348-4df5-98f2-0267c3f55fd2
+‰	java:S100O"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªšŞ½J$3515102c-a000-49ea-874d-071c655755d0
+g
+java:S1172O"+Remove this unused method parameter "view".(ªšŞ½J$ffc0bd30-a61a-4557-8d5f-4b184cb3989a
+{
+java:S1854]"?Remove this useless assignment to local variable "currentUser".(ÀÇ¾‘J$55949e53-b18f-48ff-bbf7-db39dbcc171e
+l
+java:S1481]"0Remove this unused "currentUser" local variable.(ÀÇ¾‘J$bd95700a-4346-4ed0-bb90-7ef7dc714844
+w	java:S125^"<This block of commented-out lines of code should be removed.(­“€ÀJ$fdd411fe-756d-4f57-a467-2c5081bc0e5e
+‰	java:S100j"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚£ß”J$22f3a193-3014-4626-9685-7b9def75f72d
+
+java:S3776j"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(‚£ß”J$e5eec89d-97c1-451d-95b8-622c33376328
+y
+java:S1117o"8Rename "user" which hides the field declared at line 27.(©Í”äıÿÿÿÿJ$f96e21c9-72ba-4886-af58-4a17ae13d634
+¨
+java:S3252v"gUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_LONG".(ÃôíŸüÿÿÿÿJ$ebea8161-530e-42d8-a583-fbbc1ce78803
+¢
+java:S3252}"gUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_LONG".(Å¹ÏYJ$826d29f9-fac7-4cf0-96f5-709a77864a79
+©
+java:S3252„"gUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_LONG".(¼ÛŠ¸üÿÿÿÿJ$69d44664-f3b8-48b0-906a-86c5c41ad827
+Š	java:S100’"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û¥´ÖJ$6b53cc0a-680b-482a-a505-7e7c6bc82f27

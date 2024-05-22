@@ -1,0 +1,38 @@
+
+†
+java:S1192©"IDefine a constant instead of duplicating this literal "TAGerror" 5 times.(ÜÃóJ$a4ff56a6-e3ec-46a8-8106-e9225af1ce59
+w
+java:S1141–"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿJ$1976fb9c-ec86-483f-9cc3-94d2aacb8853
+r
+java:S2589"7Remove this expression which always evaluates to "true"(¨¹ÊaJ$5b96d387-52d6-40fe-8f99-29ba7b295553
+s
+java:S2589ı"7Remove this expression which always evaluates to "true"(¨¹ÊaJ$459d7867-289d-478b-bffd-54393e578baa
+	java:S116("NRename this field "IMG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şèÿúÿÿÿÿJ$7920a3e0-8a41-4830-b203-d33843dc795d
+‹	java:S116/"PRename this field "VOZQU" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾¦®àJ$7a71fd89-a37d-4320-87f6-9ba1be688083
+‹
+java:S1845)"JRename field "img" to prevent any misunderstanding/clash with field "IMG".(Ó¨¸òÿÿÿÿÿJ$21ce0447-4575-4e8e-af76-a001f0e37192
+‰
+java:S1659&"HDeclare "descripcion" and all following declarations on a separate line.(ªÈ¯¨úÿÿÿÿJ$0b3c22c9-d0e1-489a-b966-64af0f9c4972
+h
+java:S1602?",Remove useless curly braces around statement(º­È¶J$537c6bd8-ee3c-4d66-a6a9-f0e577821e00
+m
+java:S1874u"1Remove this use of "getBitmap"; it is deprecated.(‡®ÊÚJ$d2f42838-5f34-42ea-97ca-dd6c09581055
+	java:S100~"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õì¤åùÿÿÿÿJ$61501eb4-28b6-4df1-9922-b2915eb9c7b5
+	java:S100“"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÂòôúÿÿÿÿJ$53c145aa-2c37-42de-a0fe-18c02485b8cd
+i
+java:S1602œ",Remove useless curly braces around statement(§ä³¹J$911eef77-5ddb-4d2e-a058-acb4755281f1
+Š	java:S100½"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥º‘J$efea68b0-37ce-40c5-81b1-429b9e48da59
+
+java:S3776½"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(¥º‘J$d9d627f7-f7a5-415e-9ddb-0d08cbdaf57e
+w
+java:S1117Á";Rename "storage" which hides the field declared at line 42.(ÌÔ©J$c1a28e90-e798-4c2c-8701-8b8b78f585e2
+q
+java:S1874Ë"/Remove this use of "IOUtils"; it is deprecated.(—úĞûÿÿÿÿJ$959f5d64-74af-4245-9857-11172dc84794
+u
+java:S1874Ë"3Remove this use of "toByteArray"; it is deprecated.(—úĞûÿÿÿÿJ$bb93dbae-ab81-40ab-8aba-628eabca6c54
+Š	java:S100ü"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊåÒ”J$c8f20fc8-b526-4eda-a734-45dd232d690c
+	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÒí¬şÿÿÿÿJ$ea38c35d-541f-4b38-8dc9-a4c5bfd2fdd5
+w
+java:S1117˜";Rename "storage" which hides the field declared at line 42.(ÌÔ©J$860d1f25-ac67-4e7f-bcb6-aab9f3086ffc
+n
+java:S1602«",Remove useless curly braces around statement(¯€ı¶úÿÿÿÿJ$01c8fbe6-1a5d-4243-9b82-a380acbbbec8

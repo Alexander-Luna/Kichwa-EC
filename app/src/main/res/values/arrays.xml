@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="instrumentos">
+        <item>Seleccione un Intrumento</item>
+        <item>Clarinete</item>
+        <item>Saxofón Alto</item>
+        <item>Saxofón Tenor</item>
+        <item>Saxofón Baritono</item>
+        <item>Trompeta</item>
+        <item>Trombón</item>
+        <item>Piano</item>
+        <item>Bajo Eléctrico</item>
+    </string-array>
+
+    <string-array name="genero">
+        <item>Seleccione un Genero</item>
+        <item>Cumbia</item>
+        <item>Paseíto</item>
+        <item>Salsa</item>
+        <item>Merengue</item>
+    </string-array>
+
+    <string-array name="artistas">
+        <item>Seleccione un Artista</item>
+        <item>Don Medardo Y Sus Players</item>
+        <item>Aguilar Y Su Orquesta</item>
+        <item>Diamantes de Valencia</item>
+        <item>La Formula La Original</item>
+        <item>Sonora Dinamita</item>
+        <item>Oro Sólido</item>
+        <item>La Linea</item>
+        <item>Joe Arroyo</item>
+        <item>Wilfrido Vargas</item>
+        <item>Blue Stars</item>
+        <item>Banda Café</item>
+        <item>Gerardo Morán</item>
+        <item>Jaime Enrique Aymara</item>
+        <item>El Combo de Darwin</item>
+        <item>La Familia Orquesta</item>
+        <item>Los Titos</item>
+        <item>Sharon La Hechicera</item>
+        <item>The Franklin Band</item>
+        <item>Yiyo Sarante</item>
+        <item>Matecaña</item>
+        <item>Yerba Buena</item>
+        <item>Hermanos Yaipén</item>
+        <item>Ángeles Azules</item>
+        <item>Elegantes Del Sabor</item>
+    </string-array>
+</resources>

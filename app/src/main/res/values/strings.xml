@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name" translatable="false">Kichwa EC</string>
+
+    <string name="categorias">Categorias</string>
+    <string name="home">Palabras</string>
+    <string name="configuraciones">Ajustes</string>
+    <string name="cargando">Cargando...</string>
+    <string name="olvidocontra"><u><b><i>¿Olvido su contraseña?</i></b></u></string>
+    <string name="las_contrasenias_ingresadas_no_coinciden">Las contraseñas ingresadas no coinciden</string>
+    <string name="registro_exitoso">Registro Exitoso</string>
+    <string name="hemos_enviado_confirmacion">le hemos enviado un email de confirmación</string>
+    <string name="algo_salio_mal">Upps!, Algo salio mal</string>
+    <string name="error_al_registrar_email">Error al registrar este email</string>
+    <string name="llene_todos_los_campos">Llene todos los campos</string>
+    <string name="porfavor_verifique_su_email">Por favor verifique su email</string>
+    <string name="correo_enviado">Email de recuperación enviado</string>
+    <string name="ingrese_un_correo_valido">Ingrese un email valido</string>
+
+
+    <string name="Restauracioncontra">Recuperar Contraseña</string>
+    <string name="email">e-mail</string>
+    <string name="enviar">Enviar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="nombre">Nombre de usuario</string>
+    <string name="registrar_usuario">Registrar Nuevo Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="repita_su_contrase_a">Confirme su contraseña</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="iniciar_sesion">Iniciar Sesión</string>
+    <string name="cerrar_sesion">Cerrar Sesión</string>
+    <string name="seguro_que_desea_cerrar_sesion">¿Seguro que desea cerrar sesión?</string>
+    <string name="si">SI</string>
+    <string name="no">NO</string>
+    <string name="error_al_cerrar_sesion">Ups!, Error al cerrar sesión</string>
+
+
+    <string name="entrar">Entrar</string>
+    <string name="mi_cuenta">Mi Cuenta</string>
+    <string name="dos_puntos" translatable="false">:</string>
+    <string name="guardar">Guardar</string>
+    <string name="descipcion">Recuperar contraseña</string>
+    <string name="darkwolfapps_gmail_com" translatable="false"><u><b><i>darkwolfapps@gmail.com</i></b></u></string>
+    <string name="acerca_de">Acerca De</string>
+    <string name="estudiante" translatable="false">NOMBRE ESTUDAINTE</string>
+    <string name="link_play_store" translatable="false">https://play.google.com/</string>
+    <string name="compartir_via">Compartir Vía</string>
+    <string name="contra_muy_corta">Su contraseña no puede ser menor a 8 caracteres</string>
+    <string name="correo_incorrecto">Email ingresado inválido</string>
+    <string name="contrasenias_invalida">Contraseña incorrecta</string>
+    <string name="email_ya_registrado">El email ingresado ya se encuentra registrado</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="VACIO">Vacio</string>
+    <string name="nombres">Nombre de usuario</string>
+
+    <string name="recomiendo">\¿Necesitas conocer el significado de plabras Kichwa?, Descarga KichwaEC y conoce nuevas palabras\n \</string>
+    <string name="logo">Logo</string>
+
+    <string name="inicia_sesi_n_para_subir_nuevas_palabras">Inicia sesión para agregar nuevas palabras</string>
+    <string name="deseas_iniciar_sesi_n">¿Deseas iniciar Sesión?</string>
+    <string name="m_s_tarde">Más Tarde</string>
+    <string name="compruebe_el_estado_de_su_conexi_n_e_int_ntalo_de_nuevo">Compruebe el estado de su conexión e inténtalo de nuevo.</string>
+    <string name="cerrar">Cerrar</string>
+    <string name="bienvenido">Bienvenido!</string>
+    <string name="estamos_preparando_todo_por_favor_espere">Estamos cargando los datos, por favor espere</string>
+    <string name="nueva_actualizaci_n_disponible">Nueva Actualización Disponible</string>
+    <string name="aprovecha_para_calificar">Mientras actualizas a la nueva versión de la aplicación, regalanos una calificación</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="actualizaci_n_disponible">Actualización Disponible</string>
+    <string name="buscar_palabra">Buscar Palabras</string>
+    <string name="buscar">Buscar ....</string>
+    <string name="todo">Agregar</string>
+    <string name="agregar_palabra">Agregar Palabra</string>
+    <string name="nombre_palabra_es">Palabra en Español</string>
+    <string name="escriba">Escriba...</string>
+    <string name="nombre_palabra_qu">Palabra en Kichwa</string>
+    <string name="descipcion_p">Describa su palabra</string>
+    <string name="seleccionar_imagen">Seleccionar Imagen</string>
+    <string name="camara">Camara</string>
+    <string name="galeria">Galeria</string>
+    <string name="vozque">Pronunciación en Kichwa</string>
+
+</resources>

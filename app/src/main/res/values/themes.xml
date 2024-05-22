@@ -1,0 +1,112 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.QuechuaEC" parent="Theme.MaterialComponents.DayNight.NoActionBar.Bridge">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/colorPrin</item>
+        <item name="colorPrimaryVariant">@color/colorIconosOpaco</item>
+        <item name="colorOnPrimary">@color/colorTexto</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/colorSec</item>
+        <item name="colorSecondaryVariant">@color/colorSec</item>
+        <item name="colorOnSecondary">@color/colorTexto</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Theme.QuechuaEC.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.QuechuaEC.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="Theme.QuechuaEC.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="BottomShet" parent="Theme.Design.Light.BottomSheetDialog">
+        <item name="bottomSheetStyle">@style/BottomShetStyle</item>
+    </style>
+
+    <style name="BottomShetStyle" parent="Widget.Design.BottomSheet.Modal">
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+
+
+    <style name="SplashScreen" parent="Theme.QuechuaEC">
+        <item name="android:windowBackground">@drawable/splash_screen</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+
+    <style name="SearchView" parent="">
+        <item name="android:editTextColor">@android:color/white</item>
+        <item name="android:textColorHint">@android:color/white</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="tamanio_dialog">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:windowBackground">@color/colorCardView</item>
+        <item name="android:gravity">center</item>
+        <item name="backgroundColor">@color/colorCardView</item>
+        <item name="android:background">@color/colorCardView</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:statusBarColor" tools:targetApi="l">@color/colorCardView</item>
+        <item name="android:layout_centerInParent">true</item>
+    </style>
+
+    <style name="Theme.QuechuaEC.AdAttribution">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">left</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:background">#FFCC66</item>
+        <item name="android:width">15dp</item>
+        <item name="android:height">15dp</item>
+    </style>
+
+    <style name="Style_SinInternet">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:windowBackground">#80000000</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:layout_centerInParent">true</item>
+    </style>
+
+
+    <color name="colorBrown">#F7803102</color>
+    <color name="colorOrange">#FF9100</color>
+    <color name="colorYellow">#E1CF00</color>
+    <color name="colorGold">#EBE455</color>
+    <color name="colorBlueElectric">#0D00BE</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorGreenWhite">#76FF03</color>
+    <color name="colorPlomo">#7C8485</color>
+    <color name="colorRojo">#F50057</color>
+
+    <color name="colorFondo2">#FFFFFF</color>
+    <color name="colorCardView">#FFFFFF</color>
+    <color name="colorPrin">#673AB7</color>
+    <color name="colorSec">#FFFFFF</color>
+    <color name="colorTexto">#000000</color>
+    <color name="colorIconos">#05AC5B</color>
+    <color name="colorFondo">#F7FFFFFF</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorIconosOpaco">#253A5E</color>
+    <color name="colorTextoTitulos">#1C1C1C</color>
+    <color name="colorRed">#FF1717</color>
+    <color name="colorBlue">#2196F3</color>
+    <color name="colorTextHint">#3C413E</color>
+    <color name="colorGreen">#E40ED467</color>
+    <color name="colorDesactivado">#3C3D42</color>
+    <color name="colorCardDesac">#828387</color>
+    <color name="colorSpl">#FFFFFF</color>
+    <color name="colorTabScroll">#F0F1F2</color>
+
+</resources>

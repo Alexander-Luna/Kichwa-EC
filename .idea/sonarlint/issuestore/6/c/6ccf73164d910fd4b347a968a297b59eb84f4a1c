@@ -1,0 +1,44 @@
+
+Œ	java:S117J"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚Ö÷„J$8e9fd32b-73f3-4c22-80a2-6cdf80018d1d
+˜	java:S116("XRename this field "cerrar_sesion" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥ººâÿÿÿÿÿJ$70da0543-c78e-451d-96a5-1631fc57c72a
+_
+java:S1659*"#Declare "login" on a separate line.(Ö¸ÌñJ$8c8eee27-f010-4cbe-9530-7f8f89c0ec33
+’
+java:S1450)"VRemove the "aSwitch" field and declare it as a local variable in the relevant methods.(É›àìJ$0fa7c5c0-03bb-4991-8990-ff53aac6a1b3
+
+java:S1450("\Remove the "cerrar_sesion" field and declare it as a local variable in the relevant methods.(¥ººâÿÿÿÿÿJ$02e47505-4a42-4a71-9b74-85d14c1e6587
+™
+java:S1450%"XRemove the "firestore" field and declare it as a local variable in the relevant methods.(ñ ±³ûÿÿÿÿJ$ed39037d-8cec-4785-957c-06e684cacd0f
+’
+java:S1450!"VRemove the "mParam1" field and declare it as a local variable in the relevant methods.(•Íï‘J$61415b9b-b3e4-4c41-bf9c-8b748e54cd7b
+’
+java:S1450""VRemove the "mParam2" field and declare it as a local variable in the relevant methods.(¡ˆ€ J$70fa6a54-94b4-486e-bd19-d98b32356a50
+q
+java:S2209K"5Change this instance-reference to a static reference.(Æ‘ÔÆJ$577b81af-0da4-4fa2-b4cb-780802a95719
+l
+java:S1874O"0Remove this use of "getColor"; it is deprecated.(œ‹©ÃJ$b82e1067-50ad-4aec-a6bd-92568e77c5a1
+v
+java:S2209S"5Change this instance-reference to a static reference.(¯°¥úÿÿÿÿJ$f2443440-8888-4ac6-91fa-369fdee6d6b8
+l
+java:S1874T"0Remove this use of "getColor"; it is deprecated.(œ‹©ÃJ$ab33f351-c28a-4b52-b2e4-1482d8c73f6f
+v
+java:S2209V"5Change this instance-reference to a static reference.(¯°¥úÿÿÿÿJ$e7d535ed-6bb8-429d-9328-e1977514f019
+q
+java:S1874W"0Remove this use of "getColor"; it is deprecated.(¡”ß«şÿÿÿÿJ$453f28f3-7a59-42c2-be26-e5c7621809a8
+‰	java:S100d"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ¬Â·J$307398f2-7f13-4a18-b4e8-14a8f139ebba
+Œ
+java:S3252e"PUse static access with "android.view.ViewGroup$LayoutParams" for "MATCH_PARENT".(¶ ÁJ$2e88433f-5bbf-47ab-875f-0e29b0ef936e
+Œ
+java:S3252e"PUse static access with "android.view.ViewGroup$LayoutParams" for "WRAP_CONTENT".(¶ ÁJ$d3a83ced-91e3-4046-97cc-4c43449f520f
+‘
+java:S3252i"PUse static access with "android.view.ViewGroup$LayoutParams" for "MATCH_PARENT".(Ú¹•üÿÿÿÿJ$c63239bb-fb67-49a9-a8b1-56d508f25478
+‘
+java:S3252m"PUse static access with "android.view.ViewGroup$LayoutParams" for "MATCH_PARENT".(Ú¹•üÿÿÿÿJ$d3c97cfc-9c24-4a77-91ca-7ed2243afd0b
+m
+java:S1602p",Remove useless curly braces around statement(ÎÈ«§ûÿÿÿÿJ$1967e148-1e0d-43f5-81d4-40a3ad21e254
+‰	java:S100u"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç¢Ã˜J$3864082e-7070-4422-839f-545a07837397
+}	java:S125€"<This block of commented-out lines of code should be removed.(Úö”èüÿÿÿÿJ$b974ad12-1551-433a-b06c-0701241b26b3
+g
+java:S1068!"+Remove this unused "mParam1" private field.(•Íï‘J$272e1a20-77b9-4724-9bbd-daf214eee3ed
+g
+java:S1068""+Remove this unused "mParam2" private field.(¡ˆ€ J$2e28c94d-15c4-4a74-992b-72952619798e

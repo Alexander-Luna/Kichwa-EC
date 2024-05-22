@@ -1,0 +1,78 @@
+[versions]
+agp = "8.3.0"
+androidSpinkit = "1.4.0"
+androidSpinkitVersion = "1.4.0"
+bubblenavigation = "1.0.7"
+cardSlider = "0.3.1"
+circleindicator = "2.1.6"
+diagonallayout = "1.0.9"
+core = "1.10.3"
+firebaseAnalytics = "21.6.1"
+firebaseBom = "32.7.3"
+firebaseMessaging = "23.4.1"
+firebaseInappmessagingDisplay = "20.4.0"
+glide = "4.16.0"
+gridlayout = "1.0.0"
+jplot = "1.7"
+junit = "4.13.2"
+junitVersion = "1.1.5"
+espressoCore = "3.5.1"
+appcompat = "1.6.1"
+kenburnsview = "1.0.7"
+legacySupportV4 = "1.0.0"
+lottie = "6.3.0"
+material = "1.11.0"
+activity = "1.8.2"
+constraintlayout = "2.1.4"
+googleServices = "4.4.1"
+firebaseAuth = "22.3.1"
+firebaseFirestore = "24.11.0"
+materialfavoritebutton = "0.1.5"
+mpandroidchart = "v3.1.0"
+multidex = "2.0.1"
+navigationFragment = "2.7.7"
+playServicesAds = "22.6.0"
+playServicesAuth = "21.0.0"
+powermenu = "2.2.4"
+tsnackbar = "V2.0.0"
+progrssbarpro = "1.0.1"
+
+[libraries]
+android-spinkit = { module = "com.github.ybq:Android-SpinKit", version.ref = "androidSpinkitVersion" }
+bubblenavigation = { module = "com.gauravk.bubblenavigation:bubblenavigation", version.ref = "bubblenavigation" }
+card-slider = { module = "com.ramotion.cardslider:card-slider", version.ref = "cardSlider" }
+circleindicator = { module = "me.relex:circleindicator", version.ref = "circleindicator" }
+compiler = { module = "com.github.bumptech.glide:compiler", version.ref = "glide" }
+diagonallayout = { module = "com.github.florent37:diagonallayout", version.ref = "diagonallayout" }
+core = { module = "com.google.android.play:core", version.ref = "core" }
+firebase-analytics = { module = "com.google.firebase:firebase-analytics", version.ref = "firebaseAnalytics" }
+firebase-bom = { module = "com.google.firebase:firebase-bom", version.ref = "firebaseBom" }
+firebase-messaging = { module = "com.google.firebase:firebase-messaging", version.ref = "firebaseMessaging" }
+firebase-inappmessaging-display = { module = "com.google.firebase:firebase-inappmessaging-display", version.ref = "firebaseInappmessagingDisplay" }
+glide = { module = "com.github.bumptech.glide:glide", version.ref = "glide" }
+gridlayout = { module = "androidx.gridlayout:gridlayout", version.ref = "gridlayout" }
+jplot = { module = "com.gabrielopez.plot:jplot", version.ref = "jplot" }
+junit = { group = "junit", name = "junit", version.ref = "junit" }
+ext-junit = { group = "androidx.test.ext", name = "junit", version.ref = "junitVersion" }
+espresso-core = { group = "androidx.test.espresso", name = "espresso-core", version.ref = "espressoCore" }
+appcompat = { group = "androidx.appcompat", name = "appcompat", version.ref = "appcompat" }
+kenburnsview = { module = "com.flaviofaria:kenburnsview", version.ref = "kenburnsview" }
+legacy-support-v4 = { module = "androidx.legacy:legacy-support-v4", version.ref = "legacySupportV4" }
+lottie = { module = "com.airbnb.android:lottie", version.ref = "lottie" }
+material = { group = "com.google.android.material", name = "material", version.ref = "material" }
+activity = { group = "androidx.activity", name = "activity", version.ref = "activity" }
+constraintlayout = { group = "androidx.constraintlayout", name = "constraintlayout", version.ref = "constraintlayout" }
+google-services = { group = "com.google.gms", name = "google-services", version.ref = "googleServices" }
+firebase-auth = { group = "com.google.firebase", name = "firebase-auth", version.ref = "firebaseAuth" }
+firebase-firestore = { group = "com.google.firebase", name = "firebase-firestore", version.ref = "firebaseFirestore" }
+materialfavoritebutton = { module = "com.github.ivbaranov:materialfavoritebutton", version.ref = "materialfavoritebutton" }
+multidex = { module = "androidx.multidex:multidex", version.ref = "multidex" }
+navigation-fragment = { module = "androidx.navigation:navigation-fragment", version.ref = "navigationFragment" }
+navigation-ui = { module = "androidx.navigation:navigation-ui", version.ref = "navigationFragment" }
+play-services-ads = { module = "com.google.android.gms:play-services-ads", version.ref = "playServicesAds" }
+play-services-auth = { module = "com.google.android.gms:play-services-auth", version.ref = "playServicesAuth" }
+powermenu = { module = "com.github.skydoves:powermenu", version.ref = "powermenu" }
+
+[plugins]
+androidApplication = { id = "com.android.application", version.ref = "agp" }
+
